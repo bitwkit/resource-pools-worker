@@ -1,0 +1,33 @@
+{
+  "name": "resource-pools-worker",
+  "version": "1.0.0",
+  "description": "Extension of a built-in 'worker' class for using it as a pooled resource",
+  "main": "dist/index.js",
+  "files": ["dist/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwkit/resource-pools-worker.git"
+  },
+  "keywords": [
+    "resource",
+    "pool",
+    "worker"
+  ],
+  "author": "bitwkit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitwkit/resource-pools-worker/issues"
+  },
+  "homepage": "https://github.com/bitwkit/resource-pools-worker#readme",
+  "dependencies": {
+    "resource-pools": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
