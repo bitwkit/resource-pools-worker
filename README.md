@@ -1,4 +1,4 @@
-# resource-pool-worker
+# resource-pools-worker
 Extension of a built-in 'worker' class for using as a pooled resource
 
 ## note
