@@ -1,9 +1,11 @@
 {
   "name": "resource-pools-worker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extension of a built-in 'worker' class for using it as a pooled resource",
   "main": "dist/index.js",
-  "files": ["dist/**/*"],
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp",
