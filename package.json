@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/bitwkit/resource-pools-worker#readme",
   "dependencies": {
-    "resource-pools": "^1.0.0"
+    "resource-pools": "^2.0.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2"
