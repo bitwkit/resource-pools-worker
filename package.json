@@ -1,6 +1,6 @@
 {
   "name": "resource-pools-worker",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Extension of a built-in 'worker' class for using it as a pooled resource",
   "main": "dist/index.js",
   "files": [
