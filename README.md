@@ -1,5 +1,5 @@
 # resource-pools-worker
-Extension of a built-in 'worker' class for using as a pooled resource with [**resource-pools** package](https://www.npmjs.com/package/resource-pools) package.
+Extension of a built-in 'worker' class for using as a pooled resource with [**resource-pools** package](https://www.npmjs.com/package/resource-pools).
 
 ## note
 Pooled workers are supposed to get incoming data to process via an incoming message and return a message with result when done
